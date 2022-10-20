@@ -913,7 +913,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: #B666B4;
+  background: #95A3FB;
   
 }
 
@@ -1200,7 +1200,7 @@ section {
 # Doctors
 --------------------------------------------------------------*/
 .doctors {
-  background: #b666b4;
+  background: #95A3FB;
 }
 
 .doctors .member {
@@ -1650,9 +1650,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #862582;
+
   font-size: 14px;
-  background: #b666b4;
+  background: #95A3FB;
 }
 
 #footer .footer-top {
